@@ -1,0 +1,6 @@
+Channel 1 => Ail
+Channel 2 => Ele
+Channel 3 => Thr
+Channel 4 => Rud
+Channel 5 => Knob
+Channel 6 => SwitchA
