@@ -72,6 +72,7 @@ uint32_t lastRCPacketMillis;
 
 //--------------- Function Declarations ----------
 void writeOutputs();
+void doRfCommunication();
 void readReceivedMessage();
 uint8_t checkReceivedMessage(uint8_t srcID, uint8_t destID);
 
